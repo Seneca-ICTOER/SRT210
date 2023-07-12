@@ -50,7 +50,7 @@ In the real world if you wanted to obtain a certificate - the process would look
 2. **You**: Send the certificate request and your payment to a good CA. There are various factors that affect what makes it "good", most commonly people care about how well it's trusted, and how much it costs.
 3. **CA**: Receives your request and payment, creates a set of keys, and signs your certificate with their own private key (the certificate is your public key). The CA then sends you the files it generated for you.
 4. **You**: Configure your server to use the private and public keys you got from the CA. This looks different for every type of server.
-5. Clients: When someone connects to your server using a secure mechanism, they first ask your server for a copy of your certificate (public key). Then they verify that a CA they trust signed that certificate and it's not expired. Following that they can encrypt messages they send to your server using the public key it gave them.
+5. **Clients**: When someone connects to your server using a secure mechanism, they first ask your server for a copy of your certificate (public key). Then they verify that a CA they trust signed that certificate and it's not expired. Following that they can encrypt messages they send to your server using the public key it gave them.
 
 In our case each of you will be all three of the above: **You**, the **CA**, and the **clients**. That will allow us to do all this stuff in one lab. Follow these steps in the TinyCA application:
 
