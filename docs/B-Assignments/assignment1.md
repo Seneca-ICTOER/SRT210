@@ -9,7 +9,7 @@ description: Assignment 1
 
 Due date: 12th of June
 
-- **(Update: June 13 2019)**: Final version. Added clarity (See the **A1 Test Cases** section below) to what will be tested at demo time (based on A1 requirements). More details of what should be in the project report. [Download PDF](https://wiki.cdot.senecacollege.ca/w/imgs/19b-SRT210_a1.pdf).
+- **(Update: June 13 2019)**: Final version. Added clarity (See the **A1 Test Cases** section below) to what will be tested at demo time (based on A1 requirements). More details of what should be in the project report. [Download PDF](/files/19b-SRT210_a1.pdf).
 - **(Update: May 31 2019)**: First draft. Additional edits will only clarify language and improve readability. You may consider these requirements complete for **Assignment 1 in Summer 2019**.
 - **(May 7 2019)**: Additional requirements will be added at a later date.
 
