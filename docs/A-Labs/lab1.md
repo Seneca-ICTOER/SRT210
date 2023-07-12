@@ -22,7 +22,7 @@ description: Lab 1
 - Everything in the labbook must be hand-written (by you) and every page must have your name on it. If I catch you using someone else's notes during an assessment - that will be treated as plagiarism.
 - Speaking of plagiarism - it will not be tolerated in this course. You're encouraged to discuss and help each other (within reason) during labs, but all other assessed work must be completed independently.
 - The lab instructions are written for the lab environment at school, but ask your professor if you can use your own host for the coursework and assessments. Generally speaking it should be possible.
-- You do not need the following items which are listed in the course outline: USB stick; raspberry pi, case, cable, and power supply; network cable; SD card; and wireless adapter.
+- You do **not** need the following items which are listed in the course outline: USB stick; raspberry pi, case, cable, and power supply; network cable; SD card; and wireless adapter.
 
 ## Part 1: Host Virtual Machine
 
