@@ -74,7 +74,7 @@ Write a report where you describe in your own words your learning experience of 
 1. Using `ping 1.1.1.1`, `ssh root@hostname`, and `curl http://centos.org` show the following use cases:
 
     1. From **lin1a1**: prove Internet connectivity of **lin1a1**
-    2. From **lin2a1**: prove **lin1a1** acts as a router for lin2a1 and acts as a bridge between **asg1** and **network1** using the following 3 test cases.
+    2. From **lin2a1**: prove **lin1a1** acts as a router for **lin2a1** and acts as a bridge between **asg1** and **network1** using the following 3 test cases.
         1. when **lin1a1** is shut down **lin2a1** no longer has Internet connectivity
         2. when **lin1a1** is turned on **lin2a1** has Internet connectivity
         3. use `ping` and `ssh` from **lin2a1** to connect to **lin1** and **lin2**
